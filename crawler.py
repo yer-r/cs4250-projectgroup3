@@ -6,7 +6,7 @@
 #                with only the seed URL, pages are fetched and stored, faculty
 #                pages are recognized by the default header section, and the
 #                crawl stops when num_targets faculty pages have been found.
-# FOR: CS 4250 - Course Project (Biology department)
+# FOR: CS4250 Search Engine project (Biology department)
 #-------------------------------------------------------------------------
 
 import time
