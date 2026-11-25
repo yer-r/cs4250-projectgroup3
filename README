@@ -1,1 +1,8 @@
-test
+How to run this thing currently:
+
+Make sure to install the requirements using
+pip install -r requirements.txt
+
+then test the programs:
+
+python crawler.py    # crawl and store pages (this needs MongoDB on localhost:27017)
